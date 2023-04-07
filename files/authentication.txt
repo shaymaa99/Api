@@ -1,0 +1,10 @@
+admin => responsible for all operations in the database 
+staff => responsible for update on profile 
+user => responsible for search and contact to question about somtheing or service
+
+
+
+
+admin => adminstrator.site
+staff => models for staff
+user  => user
